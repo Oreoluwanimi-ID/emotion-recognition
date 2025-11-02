@@ -1,1 +1,1 @@
-Streamlit – https://awa23ce034385emotion-detection-system-uck4vazdnn8yvyq9fkuafx.streamlit.app
+Streamlit – https://emotion-recognition-kxln3zkgquzqjpx3fupqfb.streamlit.app/
